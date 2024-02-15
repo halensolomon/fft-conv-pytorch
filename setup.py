@@ -17,9 +17,9 @@ def get_version_tag() -> str:
 setup(
     name="fft-conv-pytorch",
     version=get_version_tag(),
-    author="Frank Odom",
-    author_email="frank.odom.iii@gmail.com",
-    url="https://github.com/fkodom/fft-conv-pytorch",
+    author="Halen Solomon",
+    author_email="halensolomon@gwu.edu",
+    url="https://github.com/halensolomon/fft-conv-pytorch",
     packages=setuptools.find_packages(exclude=["tests"]),
     description="Implementation of 1D, 2D, and 3D FFT convolutions in PyTorch.",
     long_description=open("README.md").read(),
