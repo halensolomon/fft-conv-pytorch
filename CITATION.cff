@@ -1,5 +1,4 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
+
 
 cff-version: 1.2.0
 title: fkodom/fft-conv-pytorch
@@ -8,9 +7,9 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Frank Odom
-    name-particle: Frank
-    family-names: Odom
-    name-suffix: III
-    email: frank.odom.iii@gmail.com
-    affiliation: Plainsight
+  - given-names: Halen Solomon
+    name-particle: Halen
+    family-names: Solomon
+    name-suffix: 
+    email: halensolomon@gwu.edu
+    affiliation: George Washington University
