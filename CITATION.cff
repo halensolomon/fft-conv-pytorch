@@ -1,5 +1,3 @@
-
-
 cff-version: 1.2.0
 title: fkodom/fft-conv-pytorch
 message: >-
@@ -7,9 +5,10 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Halen Solomon
-    name-particle: Halen
-    family-names: Solomon
-    name-suffix: 
-    email: halensolomon@gwu.edu
-    affiliation: George Washington University
+  - given-names: "Halen Solomon"
+    name-particle: "Halen"
+    family-names: "Solomon"
+    email: "halensolomon@gwu.edu"
+    affiliation: "George Washington University"
+    orcid: "https://orcid.org/0000-0002-8664-9577"
+    
